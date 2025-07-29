@@ -1,6 +1,3 @@
- Re-creating the README.md content again for the PERN Stack Yelp Clone since the previous download failed
-
-yelp_clone_readme = """
 # 🍽️ Yelp Clone – PERN Stack Review Platform
 
 **Developed by Prabhat Vaidhya**
